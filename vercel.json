@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kolkata.call-girls.co.in/$1",
+      "permanent": true
+    }
+  ]
+}
